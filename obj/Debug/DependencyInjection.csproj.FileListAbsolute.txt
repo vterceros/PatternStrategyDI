@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\_MyGit\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\HP\Documents\_MyGit\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\HP\Documents\_MyGit\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\HP\Documents\_MyGit\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\_MyGit\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\HP\Documents\_MyGit\DependencyInjection\obj\Debug\DependencyInjection.pdb
